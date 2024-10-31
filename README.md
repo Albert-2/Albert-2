@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhushan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Coursera Clone](https://github.com/Albert-2/CourseraClone)
+- 🔭 I’m currently working on [InsightInk(A web app for blogs)](https://github.com/Albert-2/blogweb)
 
 - 🌱 I’m currently learning **Redux**
 
