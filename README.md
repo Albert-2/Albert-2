@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react,node**
 
-- 📫 How to reach me **alberteinstein02.99792458@gmail.com**
+- 📫 How to reach me **bhushanharvard50@gmail.com**
 
 - ⚡ Fun fact **An introvert who just love to code unconditionally**
 
