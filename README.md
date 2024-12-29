@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhushan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [InsightInk(A web app for blogs)](https://github.com/Albert-2/blogweb)
+- 🔭 I’m currently working on [AutoQueue(A web app to automate Queues)](https://github.com/Albert-2/AutoQueue)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Projects related to MERN**
 
